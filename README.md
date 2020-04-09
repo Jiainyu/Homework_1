@@ -1,4 +1,4 @@
-##MCR-ALS
+## MCR-ALS
 
 **Data_loader**
 
