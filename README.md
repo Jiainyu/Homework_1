@@ -1,6 +1,6 @@
 ## MCR-ALS
 
-###1. Loader the data
+### 1. Loader the data
 
 ```matlab
 filename1='./data/LAC_SUB_1.csv'
@@ -40,17 +40,17 @@ time=0:0.5:298.5
 
 *照着PPT从头做 图片并排放*
 
-###Determination of the number of components (SVD) 
+### Determination of the number of components (SVD) 
 
-###Initial estimation (EFA analysis)
+### Initial estimation (EFA analysis)
 
-###Row constraints (Non-negativity + Kinetic Models)
+### Row constraints (Non-negativity + Kinetic Models)
 
-###Column constraints (Non-negativity)
+### Column constraints (Non-negativity)
 
-###ALS optimization (Iteration:200, convergence criterion:0.1)
+### ALS optimization (Iteration:200, convergence criterion:0.1)
 
-###Output (分解矩阵 concentrations + spectra; 残差矩阵)
+### Output (分解矩阵 concentrations + spectra; 残差矩阵)
 
 <table>
     <tr>
